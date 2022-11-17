@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Nab0Y5Tt74hEnGdS2cyIwcl9lady+FCOFrXv5edQjjIpndIf4QOs9xs/tkm/Ee5s3HOGY0zIREMjKjX5Hbu7Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\gdardia\\Desktop\\dataops\\azuresqlcicd\\dwh_project\\dwh_project.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdardia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\gdardia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

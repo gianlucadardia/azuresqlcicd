@@ -1,0 +1,10 @@
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\bin\Debug\dwh_project.dacpac
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\bin\Debug\dwh_project.dll
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\bin\Debug\dwh_project.pdb
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\obj\Debug\dwh_project.sqlproj.AssemblyReference.cache
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\obj\Debug\Model.xml
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\obj\Debug\refactor.xml
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\obj\Debug\postdeploy.sql
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\obj\Debug\predeploy.sql
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\obj\Debug\dwh_project.dll
+c:\Users\gdardia\Desktop\dataops\azuresqlcicd\dwh_project\obj\Debug\dwh_project.pdb
